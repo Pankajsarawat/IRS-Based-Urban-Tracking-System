@@ -115,16 +115,10 @@ IRS-Urban-Tracking-System/
 │   ├── snr_plots/
 │   ├── animations/
 │
-├── images/
-│   ├── architecture.png
-│   ├── simulation.png
-│
 ├── presentation/
 │   ├── Final_presentation.pptx
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
 ```
 
 ---
