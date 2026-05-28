@@ -96,7 +96,7 @@ The simulation demonstrates:
 The project includes:
 
 - Real-time user movement animation
-- IRS and BS visualization
+- IRS and BS visualisation
 - LOS/NLOS communication paths
 - Live SNR plotting
 - Performance comparison graphs
@@ -112,8 +112,10 @@ IRS-Urban-Tracking-System/
 │   ├── simulation.ipynb
 │
 ├── results/
-│   ├── snr_plots/
-│   ├── animations/
+│   ├── SNR, Throughput and Effective gain with and without IRSs.png
+│   ├── result-simulation.mp4
+│   ├── tracking-error.png
+│   ├── tracking-result.png
 │
 ├── presentation/
 │   ├── Final_presentation.pptx
