@@ -128,7 +128,7 @@ IRS-Urban-Tracking-System/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/IRS-Urban-Tracking-System.git
+git clone https://github.com/Pankajsarawat/IRS-Based-Urban-Tracking-System.git
 ```
 
 Move into the project directory:
